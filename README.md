@@ -1,1 +1,6 @@
-# class04-group-exercise
+# Group 4
+
+## Group Members
+- Madi Tabon
+- Yeongtaek Lee
+
